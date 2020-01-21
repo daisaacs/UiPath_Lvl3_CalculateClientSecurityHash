@@ -9,6 +9,7 @@
     "UiPath.Credentials.Activities": "[1.1.6479.13204]",
     "UiPath.Excel.Activities": "[2.7.2]",
     "UiPath.FormActivityLibrary.Contracts": "[1.0.1]",
+    "UiPath.GoogleVision.Activities": "[1.1.1]",
     "UiPath.IntelligentOCR.Activities": "[4.0.1]",
     "UiPath.Mail.Activities": "[1.7.2]",
     "UiPath.MicrosoftOffice365.Activities": "[1.1.2]",
@@ -18,7 +19,8 @@
     "UiPath.OmniPage.Bundle.Extended": "[1.0.0]",
     "UiPath.PDF.Activities": "[3.1.0]",
     "UiPath.System.Activities": "[19.10.1]",
-    "UiPath.UIAutomation.Activities": "[19.11.0]"
+    "UiPath.UIAutomation.Activities": "[19.11.0]",
+    "UiPath.Vision": "[2.0.0]"
   },
   "webServices": [],
   "schemaVersion": "4.0",
